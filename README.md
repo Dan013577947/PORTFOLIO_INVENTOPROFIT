@@ -14,6 +14,7 @@ I Included a video of InventoProfit working in my Facebook and Youtube Channel, 
 2. Extract the zip to any desired location
 3. Open the extracted folder then Click _INVENTOPROFIT_FINAL.py
 4. Run the program with any IDE Python compiler
+
 **Note:**    The program don't run in Codespace because of pywin32 and win32api
 ## Key Learnings
 - Data Structures and Algorithm
