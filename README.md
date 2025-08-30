@@ -1,6 +1,6 @@
 # InventoProfit
 ## Overview
-InventoProfit is a Final group project and I am the main contributor. I made the program using Python and Tkinter Library for GUI, has features such as QR code auto generate for each item added, QR code scan using laptop/desktop camera, login and creation account system, forgot password,
+InventoProfit is a Final group project and I am the main contributor. I made the program using Python and Tkinter Library for GUI, it has features such as QR code auto generate for each item added, QR code scan using laptop/desktop camera, login and creation account system, forgot password,
 sales history, daily sales, weekly sales, monthly sales, expenses handling, inventory, and so on. I used txt as database, and used own logic to manipulate the database in txt. The project needed huge patience and great data handling skills to fix the errors.
 I Included a video of InventoProfit working in my fb, feel free to watch my work :)
 ## Video Link
