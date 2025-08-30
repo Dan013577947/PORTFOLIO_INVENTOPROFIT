@@ -10,12 +10,11 @@ I Included a video of InventoProfit working in my fb, feel free to watch my work
 - **Python** (loops, dictionary, lists, file management)
 - **GUI** (Tkinter)
 ## How to Run (Step by Step Process)
-1. Click the green Code Button, select Codespace then select "+" icon
-2. Wait for the loading then select _INVENTOPROFIT_FINAL.py
-3. Select Run and Debug
-4. There will be pop up, select Find Python extension then install Python
-5. Click _INVENTOPROFIT_FINAL.py then select Run and Debug then select Python Debugger, then Python File
-6. Wait for the loading, then see in Terminal if the program is running
+1. Click the green Code Button, select Local then select Download zip
+2. Extract the zip to any desired location
+3. Open the extracted folder then Click _INVENTOPROFIT_FINAL.py
+4. Run the program with any IDE Python compiler
+Note: The program don't run in Codespace because of pywin32 and win32api
 ## Key Learnings
 - Data Structures and Algorithm
 - Database Management with txt file
