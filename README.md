@@ -15,7 +15,7 @@ I Included a video of InventoProfit working in my fb, feel free to watch my work
 3. Open the extracted folder then Click _INVENTOPROFIT_FINAL.py
 4. Run the program with any IDE Python compiler
 
-Note: The program don't run in Codespace because of pywin32 and win32api
+   Note: The program don't run in Codespace because of pywin32 and win32api
 ## Key Learnings
 - Data Structures and Algorithm
 - Database Management with txt file
