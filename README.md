@@ -25,7 +25,7 @@ I Included a video of InventoProfit working in my fb, feel free to watch my work
 ### Danilo E. Alvaro Jr.
 - [LinkedIn](https://www.linkedin.com/in/danilo-alvaro-16b17534b/)
 - [Github](https://github.com/Dan013577947)
-- [itch](danilo031717.itch.io/)
+- [itch](https://danilo031717.itch.io/)
 
 
 
