@@ -7,8 +7,9 @@ I Included a video of InventoProfit working in my Facebook and Youtube Channel, 
 - **Facebook**: [Watch on FB](https://www.facebook.com/share/v/1DJVVpVZmB/)
 - **Youtube**: [Watch on YT](https://www.youtube.com/watch?v=n7Qw__cRfIk)
 ## Tech Stack
-- **Python** (loops, dictionary, lists, file management)
+- **Python** (matplotlib, open-cv, pyqrcode, pypng, pillow) 
 - **GUI** (Tkinter)
+- **.txt** (Database)
 ## How to Run (Step by Step Process)
 1. Click the green Code Button, select Local then select Download zip
 2. Extract the zip to any desired location
